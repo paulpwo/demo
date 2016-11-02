@@ -1,0 +1,36 @@
+.boxservice i, .highlight, .navbar-nav>li>a:hover 
+{color:#2AAB53;}
+
+#portfolio .portfolio-item .portfolio-link .caption{background-color:#2AAB53;}
+
+@media (min-width:768px) {
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-nav li a.active,.navbar-inverse .navbar-nav>li>a:hover,.navbar-inverse .navbar-nav>li>a:focus {background-color:#2AAB53;}
+}
+
+::selection, ::-moz-selection {background-color:#2AAB53; color:#fff;}
+.maincolorbg {background-color:#CA8D4B; color:#fff;}
+.maincolorbg .smallsep {background-color:#fff;}
+.slide-main {color:#2B2B2B;}
+.credits {
+    background-color: #2AAB53;
+    color: #fbfbfb;
+    bottom: 0;
+    font-size: smaller;
+    font-style: italic;
+}
+
+.credits a:link {
+	color: #fbfbfb;
+	  bottom: 0;
+    font-size: smaller;
+    font-style: italic;
+}
+.tw a:link{
+	text-decoration: none;
+}
+.tw a{
+	font-style: italic;
+	font-size: medium;
+	color: #666;
+}

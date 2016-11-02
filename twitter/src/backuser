@@ -1,0 +1,7 @@
+<?php
+   $consumerKey="N0QYVIDqFSveBSHtQybNowslm";
+$consumerSecret="g526hfAnrsQZzUXnq6rRY2ojQ50MEMxw6QVlpOwvsFnBpTJp9D"; 
+$accessToken="151548649-A4QAwTg8f0VlBorDKO37Nhieb6JCdRHdorsGTG2i";
+$accessTokenSecret="NOppvkMqmyWEtmgw1oVwuQDzfJCncgJdZAaVjSGZvZLXK" ;
+$user="paulpwol";
+?>
